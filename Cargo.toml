@@ -1,0 +1,9 @@
+[package]
+name = "perception_fusion_rs"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Implementation Rust de reference de ALG_PERCEPTION_FUSION, parite bit-a-bit avec la reference Python"
+repository = "https://github.com/dagornc/alg-perception-fusion"
+
+[dependencies]
